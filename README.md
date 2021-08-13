@@ -1,3 +1,2 @@
 # githubwordpress
-Github Wordpress
-Wordpress on Github
+http://jamuhc.fun
